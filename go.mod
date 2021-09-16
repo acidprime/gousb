@@ -1,1 +1,1 @@
-module github.com/google/gousb
+module github.com/acidprime/gousb
